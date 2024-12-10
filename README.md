@@ -27,7 +27,7 @@ Schematic illustration of **SILMM**, comprising five steps: 1) LMMs generate com
 
 ## Citation
 
-If you find our work useful in your research, please consider citing DPT:
+If you find our work useful in your research, please consider citing SILMM:
 
 ```tex
 @article{qu2024silmm,
